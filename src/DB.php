@@ -47,7 +47,7 @@ class DB
     static protected $pdo;
 
     /**
-     * Table prefix
+     * Table 
      *
      * @var string
      */
